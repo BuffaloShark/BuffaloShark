@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike Hardy</h1>
 <h3 align="left">Code that works. Design that wows. With a strong command of frontend frameworks and a background in Adobe’s trenches, I make the frontend punch.</h3>
 
-- 👨‍💻 All of my projects are available at [http://www.mhardydesign.com](http://www.mhardydesign.com)
+- 👨‍💻 You can see examples of my work at [http://www.mhardydesign.com](http://www.mhardydesign.com)
 
 - 📫 How to reach me **hardym30@gmail.com**
 
